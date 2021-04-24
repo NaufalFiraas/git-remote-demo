@@ -1,1 +1,1 @@
-prompt('HAALLLOOOO!!!');
+alert('Bug Fixed!');
